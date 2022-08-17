@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codexshell
 - 👀 I’m interested in front end all the way to back end
-- 🌱 I’m currently learning React and React-based frameworks (NextJS)
+- 🌱 I’m currently learning React and React-based frameworks (NextJS). While exploring I also stumbled across something called SvelteKit, might be a gem!
 - 💞️ I’m looking to collaborate on front end projects, especially open sourced ones.
 - 📫 You can reach me at [@codexshell](https://twitter.com/codexshell)
 
