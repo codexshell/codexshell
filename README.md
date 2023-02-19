@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codexshell
 - 👀 I’m interested in front end all the way to back end
-- 🌱 I’m currently learning Vue and Vue-based frameworks. While exploring I also stumbled across something called SvelteKit, might be a gem!
+- 🌱 I’m currently learning Vue, Vue-based frameworks, React and React-based frameworks. While exploring I also stumbled across something called SvelteKit, might be a gem!
 - Svelte is truly a gem, but even greater is Astro
 - 💞️ I’m looking to collaborate on front end projects, especially open sourced ones.
 - 📫 You can reach me at [@codexshell](https://twitter.com/codexshell)
