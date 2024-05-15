@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codexshell
+- 👋 Hi, I’m Silvanos Eric
 - 👀 I’m interested in front end all the way to back end
 - 🌱 I’m currently learning Angular and Nest. While exploring I also stumbled across something called SvelteKit, might be a gem!
 - Svelte is truly a gem, but even greater is Astro
