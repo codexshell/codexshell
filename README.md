@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvanos Eric
 - 👀 I’m interested in front end all the way to back end
-- 🌱 I’m currently learning `React Native/Kotlin` and `Java` for back end development. While exploring I also stumbled across something called SvelteKit, might be a gem!
+- 🌱 I’m currently learning `React Native/Kotlin` and `Java/Springboot` for back end development. While exploring I also stumbled across something called SvelteKit, might be a gem!
 - Svelte is truly a gem, but even greater is Astro
 - 💞️ I’m looking to collaborate on front end projects, especially open sourced ones.
 - 📫 You can reach me at [@codexshell](https://twitter.com/codexshell)
